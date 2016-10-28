@@ -11,10 +11,10 @@ var HelloWorld = React.createClass({
  
 ReactDOM.render(
   <div>
-  <HelloWorld greetTarget="I am Batman"/>
-  <HelloWorld greetTarget="007 Man"/>
-    <HelloWorld greetTarget="Nicolas Cage"/>
-    <HelloWorld greetTarget="Mega Man"/>
+  <HelloWorld greetTarget="I asm Batman or"/>
+  <HelloWorld greetTarget="007 2 Man"/>
+  <HelloWorld greetTarget="Nicolas Cage"/>
+  <HelloWorld greetTarget="Mega Man"/>
     <HelloWorld greetTarget="Bono"/>
     <HelloWorld greetTarget="Catwoman"/>
   </div>,

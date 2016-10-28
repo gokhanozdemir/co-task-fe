@@ -19,12 +19,16 @@
     "mongoose": "^4.4.20",
     "morgan": "^1.7.0",
     "q": "^1.4.1",
-    "webpack": "^1.13.3"
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
   },
   "babel": {
     "presets": [
       "es2015",
       "react"
     ]
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^1.16.2"
   }
 }

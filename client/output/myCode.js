@@ -73,11 +73,9 @@
 	_reactDom2.default.render(_react2.default.createElement(
 	  "div",
 	  null,
-	  _react2.default.createElement(HelloWorld, { greetTarget: "I am Batman" }),
-	  _react2.default.createElement(HelloWorld, { greetTarget: "007 Man" }),
-	  "\xA0\xA0\xA0\xA0",
+	  _react2.default.createElement(HelloWorld, { greetTarget: "I asm Batman or" }),
+	  _react2.default.createElement(HelloWorld, { greetTarget: "007 2 Man" }),
 	  _react2.default.createElement(HelloWorld, { greetTarget: "Nicolas Cage" }),
-	  "\xA0\xA0\xA0\xA0",
 	  _react2.default.createElement(HelloWorld, { greetTarget: "Mega Man" }),
 	  "\xA0\xA0\xA0\xA0",
 	  _react2.default.createElement(HelloWorld, { greetTarget: "Bono" }),
